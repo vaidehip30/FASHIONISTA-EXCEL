@@ -5,8 +5,8 @@
 
 
 
+[FASHINISTA CLOTHING DATA.pdf.xlsx](https://github.com/vaidehip30/FASHIONISTA-EXCEL/files/11983635/FASHINISTA.CLOTHING.DATA.pdf.xlsx)
 
-[FASHINISTA CLOTHING DATA.pdf.xlsx](https://github.com/vaidehip30/FASHIONISTA-EXCEL/files/11983318/FASHINISTA.CLOTHING.DATA.pdf.xlsx)
 
 
 
