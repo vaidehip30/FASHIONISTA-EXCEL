@@ -16,7 +16,7 @@
 
 # 𝐒𝐓𝐄𝐏𝐒:
 
-  1.Conducted thorough data cleaning on the datasets. 
+1.Conducted thorough data cleaning on the datasets. 
 
 2. Utilized pivot charts, graphs, and slicers to summarize the data and visualize key information.
   
