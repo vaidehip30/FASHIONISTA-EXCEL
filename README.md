@@ -35,5 +35,4 @@
 4. The largest customer segment falls within the adult age group of 30-49 years, constituting around 50% of the sales.
 
 # 𝗙𝗶𝗻𝗮𝗹 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻:
-
-Based on the analysis, the recommended approach to increase sales is to target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh. This can be achieved by showcasing ads, offers, and coupons on popular platforms like Amazon, Flipkart, and Myntra.
+To improve Fashionsta Clothing sales , Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh. This can be achieved by showing ads, offers, and coupons on popular platforms like Amazon, Flipkart, and Myntra.
